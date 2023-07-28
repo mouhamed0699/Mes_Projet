@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ProjetJS</title>
+   
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="container">
+
+        <!-- premiere partie -->
+        <div class="d1">
+            <!-- le div suivant est le div contenant le input -->
+            <div class="d10">
+                <input type="search" placeholder="Seach..." id="recherche1">
+            </div>
+            <!-- le div suivant est le div contenant les enseignant et les salles -->
+            <div class="d11">
+                <div class="enseignants">
+                    <div class="t">
+                        <img src="teacher.png" alt="">
+                    </div>
+                    <p>Enseignants</p>
+                </div>
+                <div class="salles">
+                    <div class="s">
+                        <img src="salles.png" alt="">
+                    </div>
+                    <p>Salles</p>
+                </div>
+
+            </div>
+            <!-- le div suivant est le div contenat les classes et les modules -->
+            <div class="d12">
+                <div class="classes">
+                    <div class="c">
+                        <img src="classwebp" alt="">
+                    </div>
+                    <p>classes</p>
+                </div>
+                <div class="modules">
+                    <div class="m">
+                        <img src="modules.png" alt="">
+                    </div>
+                    <p>modules</p>
+                </div>
+            </div>
+            <!-- ce dernier div est celui qui contient les differentes options qu'on a lorsqu'on tape sur les div precedent -->
+            <div class="d13">
+                <select  id="selection">
+                    <option class="op1" value="option1"></option>
+                </select>
+            </div>
+        </div>
+
+
+        <!-- second partie -->
+        <div class="d2">
+            <!-- le div suivant concerne l'endroit ou se trouve le mot Planning -->
+            <div class="d20">
+                <h1>Planning: <span class="s1"></span></h1>
+                <div class="d200">
+                    <div class="d2000">
+
+                    </div>
+                </div>
+            </div>
+            
+            <!-- le div suivant c'est pour les heures -->
+            <div class="d21">
+                <div class="d210">
+                    
+                </div>
+                <div class="d211">
+                    <p class="heures"><span class="h8">8h</span><span class="h9">9h</span>
+                        <span class="h10">10h</span><span class="h11">11h</span>
+                        <span class="h12">12h</span><span class="h13">13h</span>
+                        <span class="h14">14h</span><span class="h15">15h</span>
+                        <span class="h16">16h</span><span class="h17">17h</span></p>
+                </div>
+
+            </div>
+            <div class="semaine">
+                <div class="lundi">
+                    <div class="l1">
+                        <p>LUNDI</p>
+                        <span class="plus" id="pl1">+</span>
+                    </div>
+                    <div class="l2">
+
+                    </div>
+                </div >
+                <div class="Mardi">
+                    <div class="M1">
+                        <p>MARDI</p>
+                        <span class="plus" id="pl2">+</span>
+                    </div>
+                    <div class="M2">
+
+                    </div>
+                </div>
+                <div class="mercredi">
+                    <div class="me1">
+                        <p>MERCREDI</p>
+                        <span class="plus" id="pl3">+</span>
+                    </div>
+                    <div class="me2">
+
+                    </div>
+                </div>
+                <div class="jeudi">
+                    <div class="j1">
+                        <p>JEUDI</p>
+                        <span class="plus" id="pl4">+</span>
+                    </div>
+                    <div class="j2">
+
+                    </div>
+                </div>
+                <div class="vendredi" >
+                    <div class="v1">
+                        <p>VENDREDI</p>
+                        <span class="plus" id="pl5">+</span>
+                    </div>
+                    <div class="v2">
+
+                    </div>
+                </div>
+                <div class="samdi">
+                    <div class="s1">
+                        <p>SAMDI</p>
+                        <span class="plus" id="pl6">+</span>
+                    </div>
+                    <div class="s2">
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    
+
+
+    <script src="index.js"></script>
+    <script src="index1.js"></script>
+</body>
+</html>

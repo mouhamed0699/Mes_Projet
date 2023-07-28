@@ -1,0 +1,446 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+body{
+    margin: 0;
+    height: 1300px;
+    width: 100%;
+}
+/* container-d1 represente toute la partie de notre travaille */
+.container{
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    width: 100%;
+    background-color: #5e6767;
+    margin: 0;
+    
+}
+/* Pour la premiere partie */
+.d1{
+    width: 25%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+.d10{
+    padding-top: 40px;
+    width: 100%;
+}
+
+#recherche1{
+    height: 50px;
+    width: 95%;
+    margin-left:2%;
+    margin-right: 2%;
+    background-color: #9a9a9a;
+    border-radius: 10px;
+    font-size: 25px;
+}
+.d11{
+    margin-top: 40px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    
+}
+.enseignants,.salles{
+    margin-left: 20px;
+    width: 45%;
+    aspect-ratio: 3/2;
+    background-color: #9a9a9a;
+    margin-right: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.d12{
+    margin-top: 40px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    
+}
+.classes,.modules{
+    margin-left: 20px;
+    width: 45%;
+    aspect-ratio: 3/2;
+    
+    background-color: #9a9a9a;
+    margin-right: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.d13{
+    margin-top: 40px;
+    width: 100%;
+
+}
+
+#selection{
+    height: 50px;
+    width: 95%;
+    margin-left:2%;
+    margin-right: 2%;
+    border-radius: 20px;
+    color: black;
+    font-size: 20px;
+}
+img{
+    height: 30px;
+    width: 30px;
+}
+.t,.m,.s,.c{
+    margin-left: 5px;
+    margin-top: 5px;
+    height: 38px;
+    width: 38px;
+    border-radius: 50%;
+}
+.t{
+    background-color: #3baeea;
+}
+.s{
+    background-color: #0ba00d;
+}
+.c{
+    background-color: #f78101;
+}
+.m{
+    background-color: #eb272b;
+}
+.classes,.modules,.salles,.enseignants{
+    position: relative;
+    text-align: center;
+}
+.classes:hover{
+    background-color: orange;
+}
+.enseignants:hover{
+    background-color: #3baeea;
+}
+.salles:hover{
+    background-color:  #0ba00d;
+}
+.modules:hover{
+    background-color:#eb272b;
+}
+p{
+    position: absolute;
+    bottom: 7px;
+    color: #fff;
+    
+    left: 7px;
+}
+
+/* Pour la second Partie c'est a dire le Plannig */
+
+.d2{
+    width: 75%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: #242122;
+    margin: 0;
+}
+
+.d20{
+    width: 100%;
+    height:18% ;
+    background-color: #242122;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+   justify-content: space-between;
+
+}
+.d200{
+    position: relative;
+    width: 5.5em;
+    height: 3.5em;
+    background-color: white;
+    border-radius: 30px;
+    margin-right: 30px;
+    display: flex;
+    align-items: center;
+}
+.d2000{
+    position: absolute;
+    width: 2.5em;
+    height: 2.5em;
+    background-color: black;
+    border-radius: 50%;
+    margin-left: 7px;
+    cursor: pointer;
+    
+    
+}
+h1{
+    font-size: 2.5em;
+    color: #fff;
+    margin-left: 10px;
+    display: flex;
+    white-space: nowrap;
+
+   
+    
+}
+
+.d21{
+    background-color:#5e6767 ;
+    width: 100%;
+    display: flex;
+    height: 5%;
+    border-radius: 20px;
+    position: relative;
+}
+
+.d210{
+    height: 100%;
+    width: 14%;
+    
+}
+.d211{
+    width: 86%;
+    height: 100%;
+    position: relative;
+}
+.heures{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+
+    
+}
+.h9,.h10,.h11,.h12,.h13,.h14,.h15,.h16,.h17{
+    margin-left: 130px;
+    max-width: fit-content;
+    flex-basis: 0;
+}
+.h8{
+    margin-left: -1%;
+}
+.semaine{
+    width: 100%;
+    height: 77%;
+}
+
+.lundi,.Mardi,.mercredi,.jeudi,.vendredi,.samdi{
+    width: 100%;
+    height: 15.5%;
+    margin-top: 7px;
+    border: 1px solid white;
+    border-radius: 20px;
+    display: flex;
+   
+    position: relative;
+}
+.l1,.M1,.me1,.j1,.v1,.s1{
+    width: 14%;
+    height: 100%;
+    display: flex;
+    position: relative;
+   
+}
+
+.l2,.M2,.me2,.j2,.v2,.s2{
+    
+    width: 86%;
+    height:100%;
+    background-color: #5e6767;
+}
+.l1 p,.M1 p,.me1 p,.j1 p,.v1 p,.s1 p{
+    position: absolute;
+    color: white;
+    font-size: 1.5em;
+    top: 40%;
+   
+}
+.plus{
+    position: absolute;
+    right: 2%;
+    top: 40%;
+    color: rgb(118, 220, 95);
+    font-size:1.5em;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 1418px) {
+
+    #pl1 {
+      margin-left: 5%;
+     
+    }
+    .l1 p,.M1 p,.me1 p,.j1 p,.v1 p,.s1 p{
+        position: absolute;
+        color: white;
+        font-size: 1em;
+        top: 40%;
+       
+    }
+  }
+  @media screen and (max-width: 1168px) {
+    .d11{
+        margin-top: 40px;
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        
+    }
+    .enseignants,.salles{
+        margin-top: 20px;
+        width: 80%;
+        aspect-ratio: 3/2;
+        background-color: #9a9a9a;
+        margin-right: 20px;
+        border-radius: 20px;
+        cursor: pointer;
+    }
+    .d12{
+        margin-top: 40px;
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        
+    }
+    .classes,.modules{
+        margin-top: 20px;
+        width: 80%;
+        aspect-ratio: 3/2;
+       
+        background-color: #9a9a9a;
+        margin-right: 20px;
+        border-radius: 20px;
+        cursor: pointer;
+    }
+
+  }
+  @media screen and (max-width: 1053px) {
+    .l1 p,.M1 p,.me1 p,.j1 p,.v1 p,.s1 p{
+        position: absolute;
+        color: white;
+        font-size: 0.7em;
+        top: 40%;
+       
+    }
+    .plus{
+        position: absolute;
+        right: 2%;
+        bottom: 2%;
+        color: rgb(118, 220, 95);
+        font-size:1.5em;
+        cursor: pointer;
+    }
+    
+
+  }
+
+  /* classe js */
+.newdiv{
+    display: flex;
+    
+    flex-direction: column;
+
+
+    height: 100%;
+    position: relative;
+}
+
+.p1{
+    margin-top: 30px;
+}
+.p1,.p2,.p3{
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+    position: relative;
+  }
+  .p2{
+    font-size: 25px;
+  }
+
+.formula{
+    display: block;
+    background-color: #5e6767;
+    border: 1px solid black;
+    width: 40%;
+    height: 490px;
+    position: relative;
+    top: -100%;
+}
+.message{
+    color: red;
+    position: relative;
+    margin-top: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.modeTitile{
+    width: 100%;
+    height: 5%;
+    position: relative;
+    top: 0%;
+    background: black;
+    padding: 15px 0;
+    margin-left: -10px;
+    
+    text-align: center;
+}
+.p2form{
+    display: flex;
+    position: relative;
+    background-color: black;
+    bottom: -26%;
+    width: 100%;
+    padding: 10px 0;
+    margin-left: -10px;
+    height: 60px;
+    justify-content: center;
+    justify-items: center;
+    
+}
+.selectdiv1,.selectdiv2,.selectdiv3,.selectdiv4,.selectdiv5{
+    position:'relative';
+    width: 30%;
+}
+.s1p2{
+    position: relative;
+    
+    max-width: fit-content;
+    background-color: white;
+    color: black;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.s2p2{
+    position: relative;
+    margin-left: 2px;
+    max-width: fit-content;
+    background-color: white;
+    color: black;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.close{
+    background-color: red;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    right: 0%;
+    cursor: pointer;
+}

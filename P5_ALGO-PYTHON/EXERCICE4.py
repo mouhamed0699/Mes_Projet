@@ -1,0 +1,1 @@
+b=input("donner une chaine de chiffre : \n")

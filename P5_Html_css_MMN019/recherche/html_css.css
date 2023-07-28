@@ -1,0 +1,39 @@
+h1{
+    background-color: blue;
+    font-weight: bold;
+    padding: 15px;
+    display: inline-block;
+    font-style: italic;
+}
+h2{
+    color: #fff;
+    background-color: rgb(45, 30, 30);
+    font-weight: bold;
+    font-size: 35px;
+    padding: 12px;
+}
+p{
+    font-size: 27px;
+}
+li{
+    font-size: 27px; 
+}
+pre{
+    font-size: 27px;
+    color: blue;
+    display: inline;
+}
+.a{
+    color: red
+}
+.p0{
+    display: inline-block;
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    background-color: blue;
+    padding: 10px;
+}
+.p0 a{
+    text-decoration: none;
+}

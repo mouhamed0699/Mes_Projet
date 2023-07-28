@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(240, 201, 173);
+}
+.d1{
+    text-align: center;
+}
+.p1{
+    border: 1px solid black;
+    font-size: 70px;
+    display: inline-block;
+    padding: 0px;
+    margin: 20px;
+    background-color: red;
+}
+.h21{
+    border-width:1px ;
+    border-color: blue;
+    border-style: solid;
+    color: blue;
+    background-color: rgb(238, 133, 58);
+    padding: 10px;
+    font-style: italic;
+    margin: 20px;
+}
+.h22{
+    color: blue;
+    background-color: rgb(238, 133, 58);
+    padding: 5px;
+    font-style: italic;
+    margin: 20px;
+}
+.h23{
+    color: blue;
+    background-color: rgb(238, 133, 58);
+    padding: 5px;
+    font-style: italic;
+    margin: 20px;
+}
+.prmier1{
+    font-size: 30px;
+    color: red;
+}
+.h11{
+    border-width:1px ;
+    border-color: blue;
+    border-style: solid;
+    color: blue;
+    background-color: rgb(238, 133, 58);
+    padding: 10px;
+    margin: 20px;
+}
+.prmier2{
+    font-size: 30px;
+    color: red;
+}

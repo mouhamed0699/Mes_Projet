@@ -1,0 +1,31 @@
+body{
+    background-image: url("background.jpg");
+}
+div{
+    text-align: center;
+}
+.p0{
+    font-size: 70px;
+
+    color: #FFF;
+    margin-top: 300px;
+}
+.s01,.s02,.s03,.s04{
+    color: #fff;
+    font-size: 60px;
+    margin-left: 60px;
+
+}
+.s01{
+    margin-left:25px ;
+}
+.s11,.s12,.s13,.s14{
+    color: #fff;
+    font-size: 25px;
+    margin-left: 50px;
+
+}
+.p1{
+    font-size: 160px;
+    color: rgba(255, 255, 255, 0.1);
+}
