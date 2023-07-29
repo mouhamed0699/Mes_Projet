@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+/* body{
+    display: flex;
+    flex-direction: row;
+
+} */
+.contener{
+    position: absolute;
+    width: 600px;
+    height: 550px;
+    background-color:#2a124d ;
+    top: 30%;
+    left: 30%;
+
+}
+label{
+    margin-left: 10px;
+    font-size: 30px;
+    color: #fff;
+}
+input{
+    float: right;
+    margin-right: 10px;
+}
+input[type='number']{
+    width: 60px;
+    height: 40px;
+}
+input[type='text']{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 95%;
+    height: 60px;
+    margin-left: 10px;
+    background-color:#2a124d ;
+    color: #fff;
+    font-size: 30px;
+}
+p{
+    font-size: 40px;
+    text-align: center;
+    background-color:#e5b63e ;
+    margin-left: 10px;
+    margin-right:10px ;
+    cursor: pointer;
+}
+.pcopy{
+    margin-top: 10px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    background-color: #fff;
+    color: black;
+    font-size: 30px;
+    max-width: fit-content;
+    cursor: pointer;
+}
+.pcopy:hover{
+    background-color: #e5b63e;
+}

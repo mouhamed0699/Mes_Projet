@@ -1,0 +1,67 @@
+<div id="countdown">
+  <div>
+    <span class="days"></span>
+    <div class="smalltext">Jours</div>
+  </div>
+  <div>
+    <span class="hours"></span>
+    <div class="smalltext">Heures</div>
+  </div>
+  <div>
+    <span class="minutes"></span>
+    <div class="smalltext">Minutes</div>
+  </div>
+  <div>
+    <span class="seconds"></span>
+    <div class="smalltext">Secondes</div>
+  </div>
+</div>
+#countdown {
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  text-align: center;
+  margin: 20px;
+}
+
+#countdown > div {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+#countdown span {
+  display: block;
+  font-size: 50px;
+  color: #333;
+}
+
+#countdown .smalltext {
+  font-size: 16px;
+  color: #999;
+  text-transform: uppercase;
+  margin-top: 5px;
+}
+function countdown() {
+  var now = new Date();
+  var eventDate = new Date("2023-12-31"); // date de l'événement à venir
+  var currentTime = now.getTime();
+  var eventTime = eventDate.getTime();
+  var remTime = eventTime - currentTime;
+
+  var sec = Math.floor(remTime / 1000);
+  var min = Math.floor(sec / 60);
+  var hours = Math.floor(min / 60);
+  var days = Math.floor(hours / 24);
+
+  hours %= 24;
+  min %= 60;
+  sec %= 60;
+
+  document.querySelector(".days").textContent = days;
+  document.querySelector(".hours").textContent = hours;
+  document.querySelector(".minutes").textContent = min;
+  document.querySelector(".seconds").textContent = sec;
+
+  setTimeout(countdown, 1000);
+}
+
+countdown();
