@@ -1,0 +1,962 @@
+[
+    {
+        "Ville": "Dakar",
+        "prix": "$122",
+        "NomHotel": "Hotel Lagon 2",
+        "Note": "Good",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/ef/8e/7d/expediav2-75986-4057ac-902715.jpg?width=452&height=400&xhint=500&yhint=445&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$490",
+        "NomHotel": "Terrou-Bi",
+        "Note": "Very good",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/90/62/7d/leonardo-1236509-79506072_4K_O-282804.jpg?width=452&height=400&xhint=800&yhint=624&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$115",
+        "NomHotel": "Le Ndiambour H\u00f4tel et R\u00e9sidence",
+        "Note": "Very good",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/5e/cc/b5/leonardo-2150128-_TEM5021_O-185010.jpg?width=452&height=400&xhint=1620&yhint=1000&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$145",
+        "NomHotel": "Hotel Jardin Savana Dakar",
+        "Note": "Good",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/3e/a7/2f/expediav2-142793-283b82-025699.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$120",
+        "NomHotel": "H\u00f4tel Fleur de Lys Plateau",
+        "Note": "Okay",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/38/00/53/expediav2-2302152-ab6d58-795342.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$220",
+        "NomHotel": "King Fahd Palace",
+        "Note": "No reviews yet",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/bf/cb/29/expediav2-669790-1c0b80-175152.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$38",
+        "NomHotel": "Chez Eric",
+        "Note": "Very good",
+        "localisation": "\u00cele de Gor\u00e9e",
+        "image": "https://content.r9cdn.net/rimg/himg/04/b0/6b/expediav2-3055649-f0941b-181963.jpg?width=452&height=400&xhint=500&yhint=360&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$91",
+        "NomHotel": "H\u00f4tel Le Djoloff",
+        "Note": "Very good",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/64/c3/a6/expediav2-633699-2555508948-360210.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$40",
+        "NomHotel": "R\u00e9sidence Zeina",
+        "Note": "No reviews yet",
+        "localisation": "Hann Bel-Air",
+        "image": "https://content.r9cdn.net/rimg/himg/49/17/8f/expediav2-2565120-141baa-310992.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$42",
+        "NomHotel": "Residence Les Maristes",
+        "Note": "Good",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/71/08/0d/booking-3659579-321014805.jpg_k=3ca0c0ae1e0ce73d5e8c6c640e8aaf1f7ac65cdb6b2d7343c4436fab52f13ba7_o=-163843.jpg?width=452&height=400&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$314",
+        "NomHotel": "Pullman Dakar Teranga",
+        "Note": "Very good",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/dc/07/9b/ice-36146-62191727_3XL-181606.jpg?width=452&height=400&xhint=1440&yhint=1123&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$53",
+        "NomHotel": "Maison Augustin LY",
+        "Note": "Very good",
+        "localisation": "\u00cele de Gor\u00e9e",
+        "image": "https://content.r9cdn.net/rimg/himg/8e/26/c2/expediav2-726094-1015979931-201876.jpg?width=452&height=400&xhint=500&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$120",
+        "NomHotel": "Union Amicale Corse Dakar",
+        "Note": "Very good",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/ae/55/b8/hotelsdotcom-188579300-3645cdcc_w-839191.jpg?width=452&height=400&xhint=1000&yhint=780&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$38",
+        "NomHotel": "Villa Rosa",
+        "Note": "Very good",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/51/4d/37/expediav2-39820505-4151f317_z-982234.jpg?width=452&height=400&xhint=480&yhint=332&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$111",
+        "NomHotel": "La R\u00e9sidence",
+        "Note": "Very good",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/8b/30/84/expediav2-702512-1718406016-556658.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$194",
+        "NomHotel": "Novotel Dakar",
+        "Note": "Okay",
+        "localisation": "Dakar-Plateau",
+        "image": "https://content.r9cdn.net/rimg/himg/75/00/a2/expediav2-60148-30d242-241489.jpg?width=452&height=400&xhint=540&yhint=329&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$163",
+        "NomHotel": "Hotel L'Adresse Dakar",
+        "Note": "Very good",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/cb/1d/fe/expediav2-6039874-285113-057250.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$76",
+        "NomHotel": "Casa Mara Guest House",
+        "Note": "Very good",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/b6/0a/64/expediav2-511065-4036485299-700957.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$41",
+        "NomHotel": "Villa Malaka",
+        "Note": "Very good",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/2d/7f/fb/expediav2-2222046-fabf79-220612.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$129",
+        "NomHotel": "Ibis Dakar",
+        "Note": "Okay",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/fb/d1/5d/ice-38087-60063317_3XL-379523.jpg?width=452&height=400&xhint=1440&yhint=1123&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$235",
+        "NomHotel": "H\u00f4tel La Comtesse",
+        "Note": "Very good",
+        "localisation": "7th arrondissement",
+        "image": "https://content.r9cdn.net/rimg/himg/4c/64/5d/expediav2-35830-b71b5d-891250.jpg?width=452&height=400&xhint=520&yhint=331&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$140",
+        "NomHotel": "R\u00e9gence Etoile",
+        "Note": "Very good",
+        "localisation": "17th arrondissement",
+        "image": "https://content.r9cdn.net/rimg/himg/19/11/17/expediav2-156464-7d5766-755137.jpg?width=452&height=400&xhint=480&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$138",
+        "NomHotel": "Hotel Chavanel",
+        "Note": "Very good",
+        "localisation": "8th arrondissement",
+        "image": "https://content.r9cdn.net/rimg/himg/42/3f/57/revato-48494-12162149-240106.jpg?width=452&height=400&xhint=669&yhint=325&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$257",
+        "NomHotel": "H\u00f4tel Bedford",
+        "Note": "Very good",
+        "localisation": "8th arrondissement",
+        "image": "https://content.r9cdn.net/rimg/kimg/54/5a/7ff892358bc971d3.jpg?width=452&height=400&xhint=491&yhint=341&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$181",
+        "NomHotel": "H\u00f4tel Beige",
+        "Note": "Very good",
+        "localisation": "9th arrondissement",
+        "image": "https://content.r9cdn.net/rimg/himg/58/ec/81/leonardo-33222-158005453-468238.jpg?width=452&height=400&xhint=576&yhint=400&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$260",
+        "NomHotel": "Le Parisis - Paris Tour Eiffel",
+        "Note": "Very good",
+        "localisation": "15th arrondissement",
+        "image": "https://content.r9cdn.net/rimg/himg/1d/25/65/expediav2-149649-871a26-495580.jpg?width=452&height=400&xhint=520&yhint=341&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$494",
+        "NomHotel": "Pullman Paris Tour Eiffel",
+        "Note": "Very good",
+        "localisation": "15th arrondissement",
+        "image": "https://content.r9cdn.net/rimg/himg/a3/05/9c/ice-38284-72136987_3XL-539482.jpg?width=452&height=400&xhint=1440&yhint=1080&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$305",
+        "NomHotel": "Acad\u00e9mie H\u00f4tel Saint Germain",
+        "Note": "Very good",
+        "localisation": "7th arrondissement",
+        "image": "https://content.r9cdn.net/rimg/himg/c4/36/e2/ice-89752-photo.aspx_did=2692_brochureid=89752_publicid=33692818_instanceid=3-image.jpg?width=452&height=400&xhint=400&yhint=266&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$516",
+        "NomHotel": "Hotel Maison Colbert Member of Meli\u00e1 Collection",
+        "Note": "Very good",
+        "localisation": "Quartier Latin",
+        "image": "https://content.r9cdn.net/rimg/kimg/5f/ed/031ec195-61d832ed-94.jpeg?width=452&height=400&xhint=1913&yhint=1184&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$167",
+        "NomHotel": "Yays Paris Issy",
+        "Note": "Very good",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/17/b3/fc/leonardo-206164214-One-bedroom_Apartment_O-359558.jpg?width=452&height=400&xhint=1620&yhint=1000&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$756",
+        "NomHotel": "Hotel Regina Louvre",
+        "Note": "Very good",
+        "localisation": "1st arrondissement",
+        "image": "https://content.r9cdn.net/rimg/himg/57/eb/3b/expediav2-21001-2014811374-515038.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$549",
+        "NomHotel": "Castille Paris - Starhotels Collezione",
+        "Note": "Very good",
+        "localisation": "1st arrondissement",
+        "image": "https://content.r9cdn.net/rimg/himg/2a/b6/98/ice-122921-65950317_3XL-860569.jpg?width=452&height=400&xhint=1554&yhint=958&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$621",
+        "NomHotel": "Marquis Faubourg Saint-Honor\u00e9 Relais & Ch\u00e2teaux",
+        "Note": "Very good",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/43/4e/bb/leonardo-1296891-Other_3_S-531550.jpg?width=452&height=400&xhint=578&yhint=451&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$157",
+        "NomHotel": "Hotel Bassano",
+        "Note": "Very good",
+        "localisation": "16th arrondissement",
+        "image": "https://content.r9cdn.net/rimg/himg/1e/9d/e3/expediav2-7467-cef39e-344828.jpg?width=452&height=400&xhint=460&yhint=327&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$350",
+        "NomHotel": "H\u00f4tel Da Vinci & Spa",
+        "Note": "Very good",
+        "localisation": "6th arrondissement",
+        "image": "https://content.r9cdn.net/rimg/himg/76/17/eb/leonardo-84986976-room31_O-421018.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$709",
+        "NomHotel": "Le Burgundy Paris",
+        "Note": "Very good",
+        "localisation": "1st arrondissement",
+        "image": "https://content.r9cdn.net/rimg/himg/ce/c5/7a/expediav2-12788-2807614556-594755.jpg?width=452&height=400&xhint=520&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$539",
+        "NomHotel": "Hotel Napoleon",
+        "Note": "Very good",
+        "localisation": "8th arrondissement",
+        "image": "https://content.r9cdn.net/rimg/himg/ba/05/f2/expediav2-53263-cd018f-453502.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$188",
+        "NomHotel": "H\u00f4tel Observatoire Luxembourg",
+        "Note": "Very good",
+        "localisation": "5th arrondissement",
+        "image": "https://content.r9cdn.net/rimg/himg/da/1f/03/ice-39730-photo.aspx_did=2692_brochureid=39730_publicid=31263007_instanceid=8-image.jpg?width=452&height=400&xhint=512&yhint=367&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$130",
+        "NomHotel": "Hotel Nude Paris",
+        "Note": "Very good",
+        "localisation": "6th arrondissement",
+        "image": "https://content.r9cdn.net/rimg/himg/7f/b4/0a/expediav2-53811-030b1f-574765.jpg?width=452&height=400&xhint=480&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$215",
+        "NomHotel": "L'Empire Paris",
+        "Note": "Very good",
+        "localisation": "1st arrondissement",
+        "image": "https://content.r9cdn.net/rimg/himg/7d/b5/13/ice-123202-65081998_3XL-983870.jpg?width=452&height=400&xhint=1554&yhint=943&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$610",
+        "NomHotel": "Sea Containers London",
+        "Note": "Very good",
+        "localisation": "Southwark",
+        "image": "https://content.r9cdn.net/rimg/himg/de/d8/a1/ice-123363-65001801_3XL-617830.jpg?width=452&height=400&xhint=1555&yhint=960&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$516",
+        "NomHotel": "Royal Lancaster London",
+        "Note": "Wonderful",
+        "localisation": "City of Westminster",
+        "image": "https://content.r9cdn.net/rimg/himg/57/31/2b/expediav2-32579-f35f1c-709309.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$620",
+        "NomHotel": "The Rubens at the Palace",
+        "Note": "Very good",
+        "localisation": "City of Westminster",
+        "image": "https://content.r9cdn.net/rimg/himg/1c/ef/d2/leonardo-2146626-The_Rubens_Master_Suite_2_O-673697.jpg?width=452&height=400&xhint=1620&yhint=1001&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$318",
+        "NomHotel": "Malmaison London",
+        "Note": "Very good",
+        "localisation": "Islington",
+        "image": "https://content.r9cdn.net/rimg/himg/7d/e8/3d/leonardo-2694902-bar_medium_O-446589.jpg?width=452&height=400&xhint=243&yhint=171&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$583",
+        "NomHotel": "Me London",
+        "Note": "Very good",
+        "localisation": "City of Westminster",
+        "image": "https://content.r9cdn.net/rimg/kimg/33/8d/00b869f2-61815d80-23.jpeg?width=452&height=400&xhint=1594&yhint=984&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$499",
+        "NomHotel": "St James Hotel & Club Mayfair",
+        "Note": "Very good",
+        "localisation": "City of Westminster",
+        "image": "https://content.r9cdn.net/rimg/himg/f2/48/8c/leonardo-54931-149134039-135246.jpg?width=452&height=400&xhint=540&yhint=334&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$399",
+        "NomHotel": "Strand Palace Hotel",
+        "Note": "Very good",
+        "localisation": "City of Westminster",
+        "image": "https://content.r9cdn.net/rimg/himg/8b/ec/76/revato-7098-13093690-119071.jpg?width=452&height=400&xhint=1500&yhint=974&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$318",
+        "NomHotel": "St Paul's Hotel",
+        "Note": "Very good",
+        "localisation": "Hammersmith and Fulham",
+        "image": "https://content.r9cdn.net/rimg/himg/c2/ce/74/expediav2-756844-35c246-392287.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$669",
+        "NomHotel": "Hotel 41",
+        "Note": "Wonderful",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/db/7c/c1/leonardo-2146624-Hotel_41_Victoria_London.Hotel_41_Exterior_evening_O-927149.jpg?width=452&height=400&xhint=872&yhint=1584&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$530",
+        "NomHotel": "Collingham Serviced Apartments",
+        "Note": "Very good",
+        "localisation": "Kensington and Chelsea",
+        "image": "https://content.r9cdn.net/rimg/himg/8f/7b/fb/expediav2-4482-e56be5-269790.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$340",
+        "NomHotel": "Leonardo Royal London Tower Bridge",
+        "Note": "Very good",
+        "localisation": "Tower Hamlets",
+        "image": "https://content.r9cdn.net/rimg/himg/85/6a/0f/ice-142149230-7553386_3XL-617764.jpg?width=452&height=400&xhint=1084&yhint=508&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$457",
+        "NomHotel": "London Bridge Hotel",
+        "Note": "Very good",
+        "localisation": "Southwark",
+        "image": "https://content.r9cdn.net/rimg/himg/9b/7b/80/leonardo-21224-159186211-747380.jpg?width=452&height=400&xhint=1620&yhint=1001&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$368",
+        "NomHotel": "Sofitel London Heathrow",
+        "Note": "Very good",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/b9/e7/e9/ice-188106-104198106-865334.jpg?width=452&height=400&xhint=1024&yhint=798&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$1,045",
+        "NomHotel": "Shangri-La The Shard, London",
+        "Note": "Wonderful",
+        "localisation": "Southwark",
+        "image": "https://content.r9cdn.net/rimg/himg/5e/58/c7/expediav2-2133170-3ea076-564926.jpg?width=452&height=400&xhint=560&yhint=317&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$758",
+        "NomHotel": "The Landmark London",
+        "Note": "Very good",
+        "localisation": "City of Westminster",
+        "image": "https://content.r9cdn.net/rimg/himg/dc/74/98/leonardo-2694933-Marble_Hall_Sept18_1_O-502859.jpg?width=452&height=400&xhint=1620&yhint=1000&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$861",
+        "NomHotel": "The Mandrake",
+        "Note": "Very good",
+        "localisation": "City of Westminster",
+        "image": "https://content.r9cdn.net/rimg/himg/02/5a/42/expediav2-3091251-448833939-335040.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$721",
+        "NomHotel": "Kimpton Fitzroy London",
+        "Note": "Very good",
+        "localisation": "Camden",
+        "image": "https://content.r9cdn.net/rimg/himg/84/a9/91/expediav2-73415-1007515708-872988.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$675",
+        "NomHotel": "The Franklin London - Starhotels Collezione",
+        "Note": "Very good",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/24/31/cf/leonardo-2092645-The_Franklin_London_The_Emerald_Parlor_view_H_O-535191.jpg?width=452&height=400&xhint=1228&yhint=787&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$1,108",
+        "NomHotel": "The Savoy",
+        "Note": "Wonderful",
+        "localisation": "City of Westminster",
+        "image": "https://content.r9cdn.net/rimg/himg/e1/7f/96/expediav2-11795-1409287454-839354.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$424",
+        "NomHotel": "Courthouse Hotel",
+        "Note": "Okay",
+        "localisation": "City of Westminster",
+        "image": "https://content.r9cdn.net/rimg/himg/b1/ed/c5/ice-113403-67401384_3XL-721252.jpg?width=452&height=400&xhint=1497&yhint=959&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$114",
+        "NomHotel": "Le Ndiambour H\u00f4tel et R\u00e9sidence",
+        "Note": "Very good",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/5e/cc/b5/leonardo-2150128-_TEM5021_O-185010.jpg?width=452&height=400&xhint=1620&yhint=1000&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$393",
+        "NomHotel": "Terrou-Bi",
+        "Note": "Very good",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/90/62/7d/leonardo-1236509-79506072_4K_O-282804.jpg?width=452&height=400&xhint=800&yhint=624&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$36",
+        "NomHotel": "Chez Eric",
+        "Note": "Very good",
+        "localisation": "\u00cele de Gor\u00e9e",
+        "image": "https://content.r9cdn.net/rimg/himg/04/b0/6b/expediav2-3055649-f0941b-181963.jpg?width=452&height=400&xhint=500&yhint=360&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$122",
+        "NomHotel": "Hotel Lagon 2",
+        "Note": "Good",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/ef/8e/7d/expediav2-75986-4057ac-902715.jpg?width=452&height=400&xhint=500&yhint=445&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$91",
+        "NomHotel": "H\u00f4tel Le Djoloff",
+        "Note": "Very good",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/64/c3/a6/expediav2-633699-2555508948-360210.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$111",
+        "NomHotel": "La R\u00e9sidence",
+        "Note": "Very good",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/8b/30/84/expediav2-702512-1718406016-556658.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$120",
+        "NomHotel": "H\u00f4tel Fleur de Lys Plateau",
+        "Note": "Okay",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/38/00/53/expediav2-2302152-ab6d58-795342.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$78",
+        "NomHotel": "Casa Mara Guest House",
+        "Note": "Very good",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/b6/0a/64/expediav2-511065-4036485299-700957.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$163",
+        "NomHotel": "Hotel L'Adresse Dakar",
+        "Note": "Very good",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/cb/1d/fe/expediav2-6039874-285113-057250.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$47",
+        "NomHotel": "Luxueux appartement F3 \u00e0 la Cit\u00e9 Mixta",
+        "Note": "Good",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/2b/6e/fa/expediav2-4825536-34339c-806962.jpg?width=452&height=400&xhint=480&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$62",
+        "NomHotel": "Maison Augustin LY",
+        "Note": "Very good",
+        "localisation": "\u00cele de Gor\u00e9e",
+        "image": "https://content.r9cdn.net/rimg/himg/8e/26/c2/expediav2-726094-1015979931-201876.jpg?width=452&height=400&xhint=500&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$314",
+        "NomHotel": "Pullman Dakar Teranga",
+        "Note": "Very good",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/dc/07/9b/ice-36146-62191727_3XL-181606.jpg?width=452&height=400&xhint=1440&yhint=1123&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$220",
+        "NomHotel": "King Fahd Palace",
+        "Note": "No reviews yet",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/bf/cb/29/expediav2-669790-1c0b80-175152.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$40",
+        "NomHotel": "R\u00e9sidence Zeina",
+        "Note": "No reviews yet",
+        "localisation": "Hann Bel-Air",
+        "image": "https://content.r9cdn.net/rimg/himg/49/17/8f/expediav2-2565120-141baa-310992.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$38",
+        "NomHotel": "Villa Rosa",
+        "Note": "Very good",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/51/4d/37/expediav2-39820505-4151f317_z-982234.jpg?width=452&height=400&xhint=480&yhint=332&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$70",
+        "NomHotel": "Onomo Hotel Dakar",
+        "Note": "Okay",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/18/be/5b/leonardo-76197450-Jardin_Piscine_Onomo_(2_sur_9)_O-046862.jpg?width=452&height=400&xhint=540&yhint=334&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$41",
+        "NomHotel": "Villa Malaka",
+        "Note": "Very good",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/2d/7f/fb/expediav2-2222046-fabf79-220612.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$55",
+        "NomHotel": "Residence de la paix - Kana Place",
+        "Note": "No reviews yet",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/d4/04/a1/expediav2-2095241-900870035-721537.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$81",
+        "NomHotel": "Maison Abaka",
+        "Note": "Good",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/28/3a/10/expediav2-633560-5093e3-513706.jpg?width=452&height=400&xhint=480&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Dakar",
+        "prix": "$42",
+        "NomHotel": "Residence Les Maristes",
+        "Note": "Good",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/71/08/0d/booking-3659579-321014805.jpg_k=3ca0c0ae1e0ce73d5e8c6c640e8aaf1f7ac65cdb6b2d7343c4436fab52f13ba7_o=-163843.jpg?width=452&height=400&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$132",
+        "NomHotel": "R\u00e9gence Etoile",
+        "Note": "Very good",
+        "localisation": "17th arrondissement",
+        "image": "https://content.r9cdn.net/rimg/himg/19/11/17/expediav2-156464-7d5766-755137.jpg?width=452&height=400&xhint=480&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$277",
+        "NomHotel": "Off Paris Seine",
+        "Note": "Very good",
+        "localisation": "13th arrondissement",
+        "image": "https://content.r9cdn.net/rimg/himg/f8/4e/bf/expediav2-2594874-764567718-694549.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$169",
+        "NomHotel": "H\u00f4tel Beige",
+        "Note": "Very good",
+        "localisation": "9th arrondissement",
+        "image": "https://content.r9cdn.net/rimg/himg/58/ec/81/leonardo-33222-158005453-468238.jpg?width=452&height=400&xhint=576&yhint=400&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$132",
+        "NomHotel": "Hotel Chavanel",
+        "Note": "Very good",
+        "localisation": "8th arrondissement",
+        "image": "https://content.r9cdn.net/rimg/himg/42/3f/57/revato-48494-12162149-240106.jpg?width=452&height=400&xhint=669&yhint=325&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$188",
+        "NomHotel": "H\u00f4tel Observatoire Luxembourg",
+        "Note": "Very good",
+        "localisation": "5th arrondissement",
+        "image": "https://content.r9cdn.net/rimg/himg/da/1f/03/ice-39730-photo.aspx_did=2692_brochureid=39730_publicid=31263007_instanceid=8-image.jpg?width=452&height=400&xhint=512&yhint=367&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$299",
+        "NomHotel": "Maison Elle Paris",
+        "Note": "Very good",
+        "localisation": "17th arrondissement",
+        "image": "https://content.r9cdn.net/rimg/kimg/5f/ef/5156de8c-174d3770e00.jpg?width=452&height=400&xhint=960&yhint=540&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$298",
+        "NomHotel": "H\u00f4tel Da Vinci & Spa",
+        "Note": "Very good",
+        "localisation": "6th arrondissement",
+        "image": "https://content.r9cdn.net/rimg/himg/76/17/eb/leonardo-84986976-room31_O-421018.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$159",
+        "NomHotel": "Hotel Nude Paris",
+        "Note": "Very good",
+        "localisation": "6th arrondissement",
+        "image": "https://content.r9cdn.net/rimg/himg/7f/b4/0a/expediav2-53811-030b1f-574765.jpg?width=452&height=400&xhint=480&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$484",
+        "NomHotel": "Hotel Maison Colbert Member of Meli\u00e1 Collection",
+        "Note": "Very good",
+        "localisation": "Quartier Latin",
+        "image": "https://content.r9cdn.net/rimg/kimg/5f/ed/031ec195-61d832ed-94.jpeg?width=452&height=400&xhint=1913&yhint=1184&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$193",
+        "NomHotel": "Yays Paris Issy",
+        "Note": "Very good",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/17/b3/fc/leonardo-206164214-One-bedroom_Apartment_O-359558.jpg?width=452&height=400&xhint=1620&yhint=1000&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$539",
+        "NomHotel": "Hotel Napoleon",
+        "Note": "Very good",
+        "localisation": "8th arrondissement",
+        "image": "https://content.r9cdn.net/rimg/himg/ba/05/f2/expediav2-53263-cd018f-453502.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$294",
+        "NomHotel": "Victoria Palace Hotel",
+        "Note": "Very good",
+        "localisation": "6th arrondissement",
+        "image": "https://content.r9cdn.net/rimg/kimg/59/43/37a7dccb-60e2d43e-7.jpeg?width=452&height=400&xhint=4320&yhint=2667&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$267",
+        "NomHotel": "H\u00f4tel Bedford",
+        "Note": "Very good",
+        "localisation": "8th arrondissement",
+        "image": "https://content.r9cdn.net/rimg/kimg/54/5a/7ff892358bc971d3.jpg?width=452&height=400&xhint=491&yhint=341&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$210",
+        "NomHotel": "Hotel Elysees Regencia",
+        "Note": "Very good",
+        "localisation": "16th arrondissement",
+        "image": "https://content.r9cdn.net/rimg/himg/65/13/01/expediav2-186582-84f069-661752.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$543",
+        "NomHotel": "Castille Paris - Starhotels Collezione",
+        "Note": "Very good",
+        "localisation": "1st arrondissement",
+        "image": "https://content.r9cdn.net/rimg/himg/2a/b6/98/ice-122921-65950317_3XL-860569.jpg?width=452&height=400&xhint=1554&yhint=958&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$693",
+        "NomHotel": "Le Burgundy Paris",
+        "Note": "Very good",
+        "localisation": "1st arrondissement",
+        "image": "https://content.r9cdn.net/rimg/himg/ce/c5/7a/expediav2-12788-2807614556-594755.jpg?width=452&height=400&xhint=520&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$231",
+        "NomHotel": "L'Empire Paris",
+        "Note": "Very good",
+        "localisation": "1st arrondissement",
+        "image": "https://content.r9cdn.net/rimg/himg/7d/b5/13/ice-123202-65081998_3XL-983870.jpg?width=452&height=400&xhint=1554&yhint=943&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$243",
+        "NomHotel": "Holiday Inn Paris Opera - Grands Blvds",
+        "Note": "Very good",
+        "localisation": "9th arrondissement",
+        "image": "https://content.r9cdn.net/rimg/himg/f1/5b/17/leonardo-1250974-PARPP_5589929012_O-341661.jpg?width=452&height=400&xhint=1620&yhint=1001&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$311",
+        "NomHotel": "Acad\u00e9mie H\u00f4tel Saint Germain",
+        "Note": "Very good",
+        "localisation": "7th arrondissement",
+        "image": "https://content.r9cdn.net/rimg/himg/c4/36/e2/ice-89752-photo.aspx_did=2692_brochureid=89752_publicid=33692818_instanceid=3-image.jpg?width=452&height=400&xhint=400&yhint=266&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Paris",
+        "prix": "$164",
+        "NomHotel": "Apartments Ws Saint-Lazare - Opera",
+        "Note": "Good",
+        "localisation": "8th arrondissement",
+        "image": "https://content.r9cdn.net/rimg/himg/05/14/db/ostrovok-3171463-cf0c52-195797.jpg?width=452&height=400&xhint=552&yhint=342&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$541",
+        "NomHotel": "Sea Containers London",
+        "Note": "Very good",
+        "localisation": "Southwark",
+        "image": "https://content.r9cdn.net/rimg/himg/de/d8/a1/ice-123363-65001801_3XL-617830.jpg?width=452&height=400&xhint=1555&yhint=960&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$601",
+        "NomHotel": "The Rubens at the Palace",
+        "Note": "Very good",
+        "localisation": "City of Westminster",
+        "image": "https://content.r9cdn.net/rimg/himg/1c/ef/d2/leonardo-2146626-The_Rubens_Master_Suite_2_O-673697.jpg?width=452&height=400&xhint=1620&yhint=1001&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$690",
+        "NomHotel": "Royal Lancaster London",
+        "Note": "Wonderful",
+        "localisation": "City of Westminster",
+        "image": "https://content.r9cdn.net/rimg/himg/57/31/2b/expediav2-32579-f35f1c-709309.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$312",
+        "NomHotel": "Leonardo Royal London Tower Bridge",
+        "Note": "Very good",
+        "localisation": "Tower Hamlets",
+        "image": "https://content.r9cdn.net/rimg/himg/85/6a/0f/ice-142149230-7553386_3XL-617764.jpg?width=452&height=400&xhint=1084&yhint=508&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$747",
+        "NomHotel": "Hotel 41",
+        "Note": "Wonderful",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/db/7c/c1/leonardo-2146624-Hotel_41_Victoria_London.Hotel_41_Exterior_evening_O-927149.jpg?width=452&height=400&xhint=872&yhint=1584&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$675",
+        "NomHotel": "Kimpton Fitzroy London",
+        "Note": "Very good",
+        "localisation": "Camden",
+        "image": "https://content.r9cdn.net/rimg/himg/84/a9/91/expediav2-73415-1007515708-872988.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$849",
+        "NomHotel": "The Hari London",
+        "Note": "Very good",
+        "localisation": "City of Westminster",
+        "image": "https://content.r9cdn.net/rimg/himg/c4/69/ab/expediav2-8957-24ac7c-976678.jpg?width=452&height=400&xhint=520&yhint=346&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$350",
+        "NomHotel": "Strand Palace Hotel",
+        "Note": "Very good",
+        "localisation": "City of Westminster",
+        "image": "https://content.r9cdn.net/rimg/himg/8b/ec/76/revato-7098-13093690-119071.jpg?width=452&height=400&xhint=1500&yhint=974&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$692",
+        "NomHotel": "The Landmark London",
+        "Note": "Very good",
+        "localisation": "City of Westminster",
+        "image": "https://content.r9cdn.net/rimg/himg/dc/74/98/leonardo-2694933-Marble_Hall_Sept18_1_O-502859.jpg?width=452&height=400&xhint=1620&yhint=1000&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$210",
+        "NomHotel": "Marlin Canary Wharf",
+        "Note": "Good",
+        "localisation": "Tower Hamlets",
+        "image": "https://content.r9cdn.net/rimg/himg/93/00/9e/expediav2-301648-41e670-362367.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$583",
+        "NomHotel": "Threadneedles Autograph Collection",
+        "Note": "Very good",
+        "localisation": "N/A",
+        "image": "https://content.r9cdn.net/rimg/himg/cd/69/33/leonardo-5782-156440500-655191.jpg?width=452&height=400&xhint=540&yhint=333&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$456",
+        "NomHotel": "London Bridge Hotel",
+        "Note": "Very good",
+        "localisation": "Southwark",
+        "image": "https://content.r9cdn.net/rimg/himg/9b/7b/80/leonardo-21224-159186211-747380.jpg?width=452&height=400&xhint=1620&yhint=1001&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$506",
+        "NomHotel": "The Royal Horseguards",
+        "Note": "Very good",
+        "localisation": "City of Westminster",
+        "image": "https://content.r9cdn.net/rimg/himg/d3/c0/69/leonardo-67120281-The_Royal_Horseguards_Hotel_-_Ronald_C.Rosanes_O-493708.jpg?width=452&height=400&xhint=1500&yhint=1000&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$310",
+        "NomHotel": "Malmaison London",
+        "Note": "Very good",
+        "localisation": "Islington",
+        "image": "https://content.r9cdn.net/rimg/himg/7d/e8/3d/leonardo-2694902-bar_medium_O-446589.jpg?width=452&height=400&xhint=243&yhint=171&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$668",
+        "NomHotel": "Conrad London St. James",
+        "Note": "Very good",
+        "localisation": "City of Westminster",
+        "image": "https://content.r9cdn.net/rimg/kimg/ac/88/0d677cc1-5db1a247-8.jpg?width=452&height=400&xhint=720&yhint=499&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$312",
+        "NomHotel": "Grange St Pauls",
+        "Note": "Very good",
+        "localisation": "City of London",
+        "image": "https://content.r9cdn.net/rimg/himg/fa/63/df/leonardo-2100238-Terrace_evening_2_O-455994.jpg?width=452&height=400&xhint=344&yhint=480&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$418",
+        "NomHotel": "The Hoxton, Shoreditch",
+        "Note": "Very good",
+        "localisation": "Hackney",
+        "image": "https://content.r9cdn.net/rimg/himg/db/00/1c/ice-51203-photo.aspx_did=2692_brochureid=51203_publicid=58215440_instanceid=8_resizing=4K-414926.jpg?width=452&height=400&xhint=942&yhint=671&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$373",
+        "NomHotel": "The Cavendish London",
+        "Note": "Very good",
+        "localisation": "City of Westminster",
+        "image": "https://content.r9cdn.net/rimg/himg/46/f4/82/leonardo-1064670-The_Cavendish_London_UK_Penthouse-Suite1508_1_O-637018.jpg?width=452&height=400&xhint=1500&yhint=953&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$886",
+        "NomHotel": "Sofitel London St James",
+        "Note": "Wonderful",
+        "localisation": "City of Westminster",
+        "image": "https://content.r9cdn.net/rimg/himg/16/59/98/ice-23417-103752809-173768.jpg?width=452&height=400&xhint=1440&yhint=1123&crop=true&watermarkheight=28&watermarkpadding=10"
+    },
+    {
+        "Ville": "Londres",
+        "prix": "$313",
+        "NomHotel": "Locke at Broken Wharf",
+        "Note": "Very good",
+        "localisation": "City of London",
+        "image": "https://content.r9cdn.net/rimg/himg/fb/b7/d8/leonardo-208055148-LK_BW_CoWorking_WebRes_jpeg_0320_(26)_O-447447.jpg?width=452&height=400&xhint=520&yhint=342&crop=true&watermarkheight=28&watermarkpadding=10"
+    }
+]

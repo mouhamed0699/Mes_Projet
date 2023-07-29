@@ -1,0 +1,2102 @@
+[
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Le Ndiambour Hôtel et Résidence",
+        "Prix": "108 €",
+        "Note": "N/A",
+        "localisa": "Dakar-Plateau"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Hôtel du Plateau",
+        "Prix": "82 €",
+        "Note": "N/A",
+        "localisa": "Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Hôtel Le Djoloff",
+        "Prix": "61 €",
+        "Note": "N/A",
+        "localisa": "Fann Hok"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "RÉSIDENCE ZEINA",
+        "Prix": "42 €",
+        "Note": "N/A",
+        "localisa": "Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Onomo Hotel Dakar",
+        "Prix": "82 €",
+        "Note": "N/A",
+        "localisa": "Yoff"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Résidence Astou Yoni",
+        "Prix": "37 €",
+        "Note": "N/A",
+        "localisa": "Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "International Hotel Dakar",
+        "Prix": "64 €",
+        "Note": "N/A",
+        "localisa": "Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Bachou Gallery Suites",
+        "Prix": "101 €",
+        "Note": "N/A",
+        "localisa": "Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Casa Mara Guest House",
+        "Prix": "69 €",
+        "Note": "N/A",
+        "localisa": "Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Aziz Residence",
+        "Prix": "25 €",
+        "Note": "N/A",
+        "localisa": "Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Hôtel Fleur de Lys Point E",
+        "Prix": "106 €",
+        "Note": "N/A",
+        "localisa": "Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "La Voile d'Or",
+        "Prix": "57 €",
+        "Note": "N/A",
+        "localisa": "Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Résidence de la Porte du Millénaire",
+        "Prix": "51 €",
+        "Note": "N/A",
+        "localisa": "Médina"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Radisson Blu Hotel, Dakar Sea Plaza",
+        "Prix": "248 €",
+        "Note": "N/A",
+        "localisa": "Fann"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Hotel du Phare",
+        "Prix": "101 €",
+        "Note": "N/A",
+        "localisa": "Ouakam"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Hotel Le Littoral des Almadies",
+        "Prix": "72 €",
+        "Note": "N/A",
+        "localisa": "Ngor"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Hotel Baraka",
+        "Prix": "66 €",
+        "Note": "N/A",
+        "localisa": "Dakar-Plateau"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Iris Hotel Ressort Space et Resort",
+        "Prix": "108 €",
+        "Note": "N/A",
+        "localisa": "Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Hotel Residence Splendide",
+        "Prix": "52 €",
+        "Note": "N/A",
+        "localisa": "Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Terrou-Bi Resort",
+        "Prix": "220 €",
+        "Note": "N/A",
+        "localisa": "Fann"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Yaas Hotel Dakar Almadies",
+        "Prix": "122 €",
+        "Note": "N/A",
+        "localisa": "Les Almadies"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Union Amical Des Corses Dakar",
+        "Prix": "78 €",
+        "Note": "N/A",
+        "localisa": "Dakar-Plateau"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "J PAD",
+        "Prix": "67 €",
+        "Note": "N/A",
+        "localisa": "Ngor"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Novotel Dakar",
+        "Prix": "167 €",
+        "Note": "N/A",
+        "localisa": "Dakar-Plateau"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Hôtel Fleur de Lys Plateau",
+        "Prix": "104 €",
+        "Note": "N/A",
+        "localisa": "Dakar-Plateau"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "La Résidence Dakar",
+        "Prix": "113 €",
+        "Note": "N/A",
+        "localisa": "Les Almadies"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Hotel Cabourg",
+        "Prix": "83 €",
+        "Note": "N/A",
+        "localisa": "Yoff"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "ibis Dakar",
+        "Prix": "132 €",
+        "Note": "N/A",
+        "localisa": "Dakar-Plateau"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Complexe Keur Yaadikoone",
+        "Prix": "22 €",
+        "Note": "N/A",
+        "localisa": "Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Café de Rome",
+        "Prix": "90 €",
+        "Note": "N/A",
+        "localisa": "Dakar-Plateau"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Hotel Jardin Savana Dakar",
+        "Prix": "130 €",
+        "Note": "N/A",
+        "localisa": "Dakar-Plateau"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Hotel Ngor Diarama",
+        "Prix": "120 €",
+        "Note": "N/A",
+        "localisa": "Ngor"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Residence Les Calanques",
+        "Prix": "41 €",
+        "Note": "N/A",
+        "localisa": "Yoff"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Pullman Dakar Teranga",
+        "Prix": "256 €",
+        "Note": "N/A",
+        "localisa": "Dakar-Plateau"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Hotel L'adresse",
+        "Prix": "160 €",
+        "Note": "N/A",
+        "localisa": "Les Almadies"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Hôtel Le Sokhamon",
+        "Prix": "104 €",
+        "Note": "N/A",
+        "localisa": "Dakar-Plateau"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Hotel Lagon 2",
+        "Prix": "114 €",
+        "Note": "N/A",
+        "localisa": "Dakar-Plateau"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Colonia Apartment",
+        "Prix": "232 €",
+        "Note": "N/A",
+        "localisa": "Ouakam"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Days Hotel & Suites Dakar",
+        "Prix": "198 €",
+        "Note": "N/A",
+        "localisa": "Dakar-Plateau"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Lodge Des Almadies",
+        "Prix": "61 €",
+        "Note": "N/A",
+        "localisa": "Les Almadies"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Hotel Nina",
+        "Prix": "65 €",
+        "Note": "N/A",
+        "localisa": "Dakar-Plateau"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "MARINA APPART HÔTEL",
+        "Prix": "119 €",
+        "Note": "N/A",
+        "localisa": "Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Aziz Gaff",
+        "Prix": "31 €",
+        "Note": "N/A",
+        "localisa": "Appartement entier"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Parcelles Assainies",
+        "Prix": "32 €",
+        "Note": "N/A",
+        "localisa": "Appartement entier"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Villa Malaka",
+        "Prix": "42 €",
+        "Note": "N/A",
+        "localisa": "Ngor"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Villa Rosa",
+        "Prix": "40 €",
+        "Note": "N/A",
+        "localisa": "Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Villa Jade",
+        "Prix": "61 €",
+        "Note": "N/A",
+        "localisa": "Ngor"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Malom Center Apt 1",
+        "Prix": "88 €",
+        "Note": "N/A",
+        "localisa": "Appartement entier"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Villa Ty Milyn Mazela SA",
+        "Prix": "38 €",
+        "Note": "N/A",
+        "localisa": "Yoff"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Malom Center Apt 2",
+        "Prix": "88 €",
+        "Note": "N/A",
+        "localisa": "Appartement entier"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Loft Keur Bibou",
+        "Prix": "129 €",
+        "Note": "N/A",
+        "localisa": "Ngor"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Residence Annapurna Dakar",
+        "Prix": "47 €",
+        "Note": "N/A",
+        "localisa": "Ngor"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Studio Le Petit Marrakech",
+        "Prix": "158 €",
+        "Note": "N/A",
+        "localisa": "Ngor"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Chez Eric",
+        "Prix": "38 €",
+        "Note": "N/A",
+        "localisa": "Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Résidence Mariste",
+        "Prix": "75 €",
+        "Note": "N/A",
+        "localisa": "Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Residence Yoff Toundou Bya",
+        "Prix": "112 €",
+        "Note": "N/A",
+        "localisa": "Appartement entier"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Villa Keur Bibou",
+        "Prix": "232 €",
+        "Note": "N/A",
+        "localisa": "Maison entière"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Maison Abaka",
+        "Prix": "81 €",
+        "Note": "N/A",
+        "localisa": "Ngor"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Residence Yaye Mariétou",
+        "Prix": "107 €",
+        "Note": "N/A",
+        "localisa": "Appartement entier"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Residence Nima",
+        "Prix": "142 €",
+        "Note": "N/A",
+        "localisa": "Appartement entier"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Maison Augustin Ly",
+        "Prix": "53 €",
+        "Note": "N/A",
+        "localisa": "Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Maison de vacances Cité douane Dakar",
+        "Prix": "88 €",
+        "Note": "N/A",
+        "localisa": "Maison entière"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "LE Lagon 2",
+        "Prix": "131 €",
+        "Note": "N/A",
+        "localisa": "Dakar-Plateau"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "King Fahd Palace",
+        "Prix": "223 €",
+        "Note": "N/A",
+        "localisa": "Les Almadies"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Les Résidences Mamoune",
+        "Prix": "119 €",
+        "Note": "N/A",
+        "localisa": "Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "La Rotonde",
+        "Prix": "205 €",
+        "Note": "N/A",
+        "localisa": "À 25,83 km de Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Etoile du Lac",
+        "Prix": "42 €",
+        "Note": "N/A",
+        "localisa": "À 26,74 km de Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Les Cristaux Roses",
+        "Prix": "48 €",
+        "Note": "N/A",
+        "localisa": "À 26,87 km de Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Annexe du QG",
+        "Prix": "32 €",
+        "Note": "N/A",
+        "localisa": "À 27,34 km de Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Le Calao du Lac Rose",
+        "Prix": "55 €",
+        "Note": "N/A",
+        "localisa": "À 28,22 km de Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Soleil D' Espoir",
+        "Prix": "42 €",
+        "Note": "N/A",
+        "localisa": "À 28,55 km de Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Annexe Du Lac Rose",
+        "Prix": "35 €",
+        "Note": "N/A",
+        "localisa": "À 28,55 km de Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Radisson Hotel Dakar Diamniadio",
+        "Prix": "240 €",
+        "Note": "N/A",
+        "localisa": "À 29,26 km de Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Hotel Mimosa - Hostel",
+        "Prix": "52 €",
+        "Note": "N/A",
+        "localisa": "À 36,09 km de Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "ASSIRA HOTEL",
+        "Prix": "24 €",
+        "Note": "N/A",
+        "localisa": "À 36,78 km de Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Chez Medzo",
+        "Prix": "30 €",
+        "Note": "N/A",
+        "localisa": "À 37,09 km de Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "La Croix Du Sud",
+        "Prix": "N/A",
+        "Note": "N/A",
+        "localisa": "Dakar-Plateau"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Gùru Hotel",
+        "Prix": "N/A",
+        "Note": "N/A",
+        "localisa": "Ngor"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Faidherbe Hotel",
+        "Prix": "N/A",
+        "Note": "N/A",
+        "localisa": "Médina"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Boma Lifestyle Hotel",
+        "Prix": "N/A",
+        "Note": "N/A",
+        "localisa": "Ngor"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Des Almadies Hotel",
+        "Prix": "N/A",
+        "Note": "N/A",
+        "localisa": "Les Almadies"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Hotel Residence Gogo Sara",
+        "Prix": "N/A",
+        "Note": "N/A",
+        "localisa": "Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Hotel Villa Yenne Dakar",
+        "Prix": "N/A",
+        "Note": "N/A",
+        "localisa": "À 30,34 km de Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Esprit Chic",
+        "Prix": "N/A",
+        "Note": "N/A",
+        "localisa": "Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Stay.plus Tony Sacre Coeur 1",
+        "Prix": "N/A",
+        "Note": "N/A",
+        "localisa": "Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Cite Keur Gorgui",
+        "Prix": "N/A",
+        "Note": "N/A",
+        "localisa": "Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Hotel Monaco Plage",
+        "Prix": "N/A",
+        "Note": "N/A",
+        "localisa": "Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Hôtel Colonia",
+        "Prix": "N/A",
+        "Note": "N/A",
+        "localisa": "Ouakam"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "La Ruche du Monde",
+        "Prix": "N/A",
+        "Note": "N/A",
+        "localisa": "Yoff"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "jotando",
+        "Prix": "N/A",
+        "Note": "N/A",
+        "localisa": "Yoff"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Liberte 6 Extension Studio",
+        "Prix": "N/A",
+        "Note": "N/A",
+        "localisa": "Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Stay.plus Style Sur Mesure",
+        "Prix": "N/A",
+        "Note": "N/A",
+        "localisa": "Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "ASAO",
+        "Prix": "N/A",
+        "Note": "N/A",
+        "localisa": "Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Ambre D'hôte",
+        "Prix": "N/A",
+        "Note": "N/A",
+        "localisa": "Ngor"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Residence Gogo Sara",
+        "Prix": "N/A",
+        "Note": "N/A",
+        "localisa": "Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "La Demeure",
+        "Prix": "N/A",
+        "Note": "N/A",
+        "localisa": "Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "La Demeure Appart Hotel",
+        "Prix": "N/A",
+        "Note": "N/A",
+        "localisa": "Appartement entier"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Hotel Magic Land",
+        "Prix": "N/A",
+        "Note": "N/A",
+        "localisa": "Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Maria Hotel",
+        "Prix": "N/A",
+        "Note": "N/A",
+        "localisa": "Dakar"
+    },
+    {
+        "Ville": "Dakar",
+        "NomHotel": "Hotel Les Mamelles",
+        "Prix": "N/A",
+        "Note": "N/A",
+        "localisa": "Ouakam"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Le patio Bastille",
+        "Prix": "153 €",
+        "Note": "N/A",
+        "localisa": "Appartement entier"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Mercure Paris Gare Montparnasse",
+        "Prix": "209 €",
+        "Note": "N/A",
+        "localisa": "Montparnasse"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Est Hotel",
+        "Prix": "142 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Grand Hotel du Calvados",
+        "Prix": "129 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Mary's Hotel République",
+        "Prix": "127 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Appart'City Classic Paris La Villette",
+        "Prix": "116 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Residhome Paris Opéra",
+        "Prix": "248 €",
+        "Note": "N/A",
+        "localisa": "Appartement entier"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hotel Alane",
+        "Prix": "143 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hotel Liège Strasbourg",
+        "Prix": "122 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "OKKO Hotels Paris Rosa Parks",
+        "Prix": "135 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hotel Excelsior Republique",
+        "Prix": "114 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Holiday Inn Paris Gare De l'Est, an IHG Hotel",
+        "Prix": "149 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hôtel Terminus Montparnasse",
+        "Prix": "164 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hotel Berkeley",
+        "Prix": "143 €",
+        "Note": "N/A",
+        "localisa": "Montparnasse"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hôtel Amoi Paris",
+        "Prix": "219 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Grand Hotel Lafayette",
+        "Prix": "199 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "La Finca Hôtel & Spa",
+        "Prix": "191 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Mercure Paris Gare de Lyon Opéra Bastille",
+        "Prix": "273 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Elsa Hotel Paris",
+        "Prix": "191 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hôtel Royal Bergère",
+        "Prix": "139 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Jeff Hotel Paris",
+        "Prix": "132 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "District République",
+        "Prix": "164 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hotel Touring",
+        "Prix": "144 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hôtel Du Globe",
+        "Prix": "110 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Luxor Bastille Hôtel",
+        "Prix": "152 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hotel Altona",
+        "Prix": "127 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hotel Little",
+        "Prix": "142 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hôtel Paris Bastille Boutet - MGallery by Sofitel",
+        "Prix": "331 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Quinzerie Hotel",
+        "Prix": "340 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hotel Marena",
+        "Prix": "144 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Wit Hotel",
+        "Prix": "171 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hotel Albert 1er Paris",
+        "Prix": "152 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "L'Hôtel Royal Saint Germain",
+        "Prix": "197 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hotel Riviera",
+        "Prix": "102 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Avalon Hotel Paris Gare du Nord",
+        "Prix": "158 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Odéon Hôtel by Malone",
+        "Prix": "263 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hôtel Kabanel",
+        "Prix": "164 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hôtel Audran",
+        "Prix": "134 €",
+        "Note": "N/A",
+        "localisa": "Montmartre"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Chabrol Opéra",
+        "Prix": "157 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "OKKO Hotels Paris Gare de l'Est",
+        "Prix": "199 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hôtel Picardy",
+        "Prix": "83 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hôtel Williams Opéra",
+        "Prix": "142 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Tonic Hôtel Saint Germain",
+        "Prix": "165 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hôtel du Square d'Anvers",
+        "Prix": "132 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Midnight Hôtel Paris",
+        "Prix": "165 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hôtel Antin Trinité",
+        "Prix": "164 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hotel Mademoiselle",
+        "Prix": "194 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hotel Taylor",
+        "Prix": "219 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Holiday Inn Paris Elysees, an IHG Hotel",
+        "Prix": "365 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Melia Paris Vendôme",
+        "Prix": "549 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hotel Le Cardinal",
+        "Prix": "186 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Le 9Hotel Opera",
+        "Prix": "202 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hotel Pilime",
+        "Prix": "161 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Le Lapin Blanc",
+        "Prix": "215 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hôtel Joke - Astotel",
+        "Prix": "165 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Best Western Opera Faubourg",
+        "Prix": "181 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Grand Hotel Nouvel Opera",
+        "Prix": "121 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Melia Paris Champs-Elysées",
+        "Prix": "423 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "La Clef Tour Eiffel Paris by The Crest Collection",
+        "Prix": "436 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hôtel Marais de Launay",
+        "Prix": "243 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hotel Viator Paris - Gare de Lyon",
+        "Prix": "176 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hotel Paris Louis Blanc",
+        "Prix": "178 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hotel Eden Opéra",
+        "Prix": "199 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Timhotel Opéra Madeleine",
+        "Prix": "194 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hôtel Phénix",
+        "Prix": "123 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hôtel Bastille",
+        "Prix": "154 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Le Grand Quartier",
+        "Prix": "243 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hotel Antin Saint-Georges",
+        "Prix": "132 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Libertel Gare Du Nord Suede",
+        "Prix": "172 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hôtel Michelet Odeon",
+        "Prix": "246 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Timhotel Paris Gare de l'Est",
+        "Prix": "190 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hotel Paris La Fayette",
+        "Prix": "164 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Les Jardins du Marais",
+        "Prix": "245 €",
+        "Note": "N/A",
+        "localisa": "Appartement entier"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hotel Saint Louis Pigalle",
+        "Prix": "175 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Libertel Canal Saint Martin",
+        "Prix": "141 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hotel Marmotel Etoile",
+        "Prix": "156 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hotel Modern'Est",
+        "Prix": "163 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Absolute Hotel Paris République",
+        "Prix": "176 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hotel Hor Les Lumières",
+        "Prix": "210 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hôtel R. Kipling by Happyculture",
+        "Prix": "186 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hotel Le Mareuil",
+        "Prix": "194 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Grand Hotel des Balcons",
+        "Prix": "251 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hôtel Madeleine Haussmann",
+        "Prix": "248 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Best Western Hotel Opéra Drouot",
+        "Prix": "184 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hotel Elysée Secret",
+        "Prix": "212 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Timhotel Montmartre",
+        "Prix": "186 €",
+        "Note": "N/A",
+        "localisa": "Montmartre"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hotel Beauséjour",
+        "Prix": "194 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Exe Panorama Paris",
+        "Prix": "194 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hôtel Bowmann",
+        "Prix": "680 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Paris Marriott Opera Ambassador",
+        "Prix": "478 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Alba Opera Hotel",
+        "Prix": "169 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hôtel Jean Bart",
+        "Prix": "192 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Villa Beaumarchais",
+        "Prix": "297 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Avalon Appart'Hotel Paris Gare du Nord",
+        "Prix": "166 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Timhotel Palais Royal",
+        "Prix": "239 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hotel Saint Georges Lafayette",
+        "Prix": "162 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Londres Saint-Honoré Hotel",
+        "Prix": "224 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Timhotel Paris Gare de Lyon",
+        "Prix": "203 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Stella",
+        "Prix": "214 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Paris",
+        "NomHotel": "Hotel Alhambra",
+        "Prix": "183 €",
+        "Note": "N/A",
+        "localisa": "Paris"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "The Strand Palace Hotel",
+        "Prix": "356 €",
+        "Note": "N/A",
+        "localisa": "City of Westminster"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "President Hotel",
+        "Prix": "358 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "LSE Rosebery Hall - Campus Accommodation",
+        "Prix": "112 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "LSE High Holborn - Campus Accommodation",
+        "Prix": "164 €",
+        "Note": "N/A",
+        "localisa": "Covent Garden"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "The Strand Palace Hotel",
+        "Prix": "356 €",
+        "Note": "N/A",
+        "localisa": "City of Westminster"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Tavistock Hotel",
+        "Prix": "379 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "New Road Hotel",
+        "Prix": "280 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "St. David's Hotels",
+        "Prix": "165 €",
+        "Note": "N/A",
+        "localisa": "Paddington"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Goodenough College",
+        "Prix": "210 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Zedwell Underground Tottenham Court Road",
+        "Prix": "321 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Zedwell Piccadilly Circus",
+        "Prix": "330 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Arriva Hotel",
+        "Prix": "188 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Alhambra Hotel",
+        "Prix": "221 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "St Giles Hotel - London",
+        "Prix": "286 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Stamford Street Apartments",
+        "Prix": "199 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Wardonia",
+        "Prix": "211 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Publove @ Exmouth Arms Euston",
+        "Prix": "105 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "DoubleTree by Hilton London West End",
+        "Prix": "443 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "MacDonald",
+        "Prix": "161 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "The Princess Hotel – St Pancras Hotel Group",
+        "Prix": "175 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Royal National Hotel",
+        "Prix": "326 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "President Hotel",
+        "Prix": "358 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Albany Hotel",
+        "Prix": "171 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "St Athans Hotel",
+        "Prix": "206 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Orchard Hotel",
+        "Prix": "209 €",
+        "Note": "N/A",
+        "localisa": "Paddington"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Bedford Hotel",
+        "Prix": "379 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Hyde Park Radnor Hotel",
+        "Prix": "284 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Hilton London Metropole",
+        "Prix": "442 €",
+        "Note": "N/A",
+        "localisa": "Paddington"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "The Clermont London, Victoria",
+        "Prix": "554 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "The Westminster London, Curio Collection by Hilton",
+        "Prix": "407 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Central Park Hotel",
+        "Prix": "240 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Mimi's Hotel Soho",
+        "Prix": "352 €",
+        "Note": "N/A",
+        "localisa": "Soho"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "ibis London Blackfriars",
+        "Prix": "324 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Point A Hotel - Westminster, London",
+        "Prix": "304 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Beit Hall - Campus Accommodation",
+        "Prix": "215 €",
+        "Note": "N/A",
+        "localisa": "Kensington"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "easyHotel London City Shoreditch",
+        "Prix": "216 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Central Hotel",
+        "Prix": "261 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "City Sleeper at Royal National Hotel",
+        "Prix": "400 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Glendale Hyde Park Hotel",
+        "Prix": "192 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Rove Hotel London Paddington",
+        "Prix": "305 €",
+        "Note": "N/A",
+        "localisa": "Paddington"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "The Abbey",
+        "Prix": "269 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "OYO Vegas Hotel",
+        "Prix": "171 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "citizenM Tower of London",
+        "Prix": "351 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Morgan Hotel",
+        "Prix": "332 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Boka Hotel",
+        "Prix": "164 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Selina Camden",
+        "Prix": "145 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Royal Eagle Hotel",
+        "Prix": "229 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Assembly Covent Garden",
+        "Prix": "418 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Morton Hotel",
+        "Prix": "578 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "London Marriott Hotel Marble Arch",
+        "Prix": "662 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Elmwood Hotel",
+        "Prix": "222 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Dreamtel London Kensington",
+        "Prix": "194 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Ruby Zoe Hotel London",
+        "Prix": "332 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "The 29 London Hotel",
+        "Prix": "253 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Chester Hotel",
+        "Prix": "244 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Yotel London City",
+        "Prix": "397 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Howard Winchester Hotel",
+        "Prix": "239 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "100 Queen's Gate Hotel London, Curio Collection by Hilton",
+        "Prix": "455 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "The Ned",
+        "Prix": "716 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Shakespeare Hotel",
+        "Prix": "159 €",
+        "Note": "N/A",
+        "localisa": "Paddington"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Studios2Let Bloomsbury",
+        "Prix": "331 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Carlton",
+        "Prix": "199 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "The Villa Kensington",
+        "Prix": "208 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Blades Hotel",
+        "Prix": "292 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Olympic House Hotel",
+        "Prix": "234 €",
+        "Note": "N/A",
+        "localisa": "Paddington"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Point A Hotel London Liverpool Street",
+        "Prix": "308 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "CitySpace Tower Bridge",
+        "Prix": "206 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Athena",
+        "Prix": "285 €",
+        "Note": "N/A",
+        "localisa": "Paddington"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "The Mandeville Hotel",
+        "Prix": "446 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Rose Court Hotel",
+        "Prix": "238 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "The Resident Soho",
+        "Prix": "495 €",
+        "Note": "N/A",
+        "localisa": "Soho"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Crestfield Hotel",
+        "Prix": "301 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Tavistock Hotel",
+        "Prix": "379 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Radisson Blu Edwardian Grafton Hotel, London",
+        "Prix": "393 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Prince William Hotel",
+        "Prix": "231 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Point A Hotel London Kings Cross – St Pancras",
+        "Prix": "386 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Ambassadors Bloomsbury",
+        "Prix": "336 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Star Hotel",
+        "Prix": "198 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Dolphin Hotel",
+        "Prix": "194 €",
+        "Note": "N/A",
+        "localisa": "Paddington"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Point A Hotel London Shoreditch",
+        "Prix": "332 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "The Bridge Hotel London",
+        "Prix": "251 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Best Western Plus Delmere Hotel",
+        "Prix": "321 €",
+        "Note": "N/A",
+        "localisa": "Paddington"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Enrico Hotel",
+        "Prix": "266 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Euston Square Hotel",
+        "Prix": "359 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Regency House",
+        "Prix": "303 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Ruby Lucy Hotel London",
+        "Prix": "437 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Arosfa Hotel London by Compass Hospitality",
+        "Prix": "379 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Hotel Saint",
+        "Prix": "421 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Hotel Indigo London - 1 Leicester Square, an IHG Hotel",
+        "Prix": "629 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Jumeirah Lowndes Hotel",
+        "Prix": "944 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Tudor Court Hotel",
+        "Prix": "306 €",
+        "Note": "N/A",
+        "localisa": "Paddington"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Cheshire Hotel Central London",
+        "Prix": "301 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Radisson Blu Edwardian Kenilworth Hotel, London",
+        "Prix": "424 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "citizenM London Bankside",
+        "Prix": "424 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Thanet Hotel Annex",
+        "Prix": "198 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Langham Court Hotel",
+        "Prix": "397 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Phoenix Hotel",
+        "Prix": "290 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Bedford Corner Hotel",
+        "Prix": "446 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "Queensway Hotel, Sure Hotel Collection by Best Western",
+        "Prix": "229 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    },
+    {
+        "Ville": "Londres",
+        "NomHotel": "European Hotel",
+        "Prix": "245 €",
+        "Note": "N/A",
+        "localisa": "Londres"
+    }
+]
